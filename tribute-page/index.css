@@ -1,0 +1,74 @@
+body {
+    font-family: 'Lucida Sans', sans-serif;
+    color: #222;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    padding-top: 1.75em;
+}
+
+h2 {
+    font-size: 1.25em;
+    text-align: center;
+    padding: 1.5em 0;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+li {
+    line-height: 1.5em;
+    padding-bottom: 1em;
+}
+
+a {
+    color: lightseagreen;
+}
+
+.main {
+    background-color:#f0f0f0;
+    margin: 1.25em 0;
+    border-radius: 5px;
+}
+
+.subtitle {
+    text-align: center;
+    padding-bottom: 0.5em;
+}
+
+.image-frame {
+    background-color: white;
+    margin: 0em 1em;
+}
+
+.image-picture {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.image-caption {
+    text-align: center;
+    padding: 1em 0em;
+    margin: 0;
+}
+
+.tribute-frame {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.quote {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.more-info {
+    font-size: 1.1em;
+    text-align: center;
+    padding: 1em 0;
+}
